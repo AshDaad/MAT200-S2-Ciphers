@@ -1,0 +1,3 @@
+Encryption Maxim #1: 
+Last on, first off
+- The last thing encrypted has to be the first thing decrypted.

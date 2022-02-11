@@ -1,0 +1,204 @@
+i	t	e	h	
+w	o	p	t
+a	s	r	n
+n	l	i	o
+t	e	g	w
+
+
+
+key = 9
+45 letters in cipher text
+45 / 9 = 5
+0	1	2	3	4	5
+1	t	n	u	e	i
+2	h	a	r	a	l
+3	e	c	i	l	d
+4	f
+5
+6
+7
+8
+9
+
+
+
+
+
+
+
+
+
+
+	LKNOC LMEAD ENTOI IS
+
+
+
+	key = exam
+
+
+
+
+E	X	A	M
+C	O	L	D
+L	I	K	E
+M	I	N	N
+E	S	O	T
+A			
+
+
+
+
+
+
+
+
+
+
+
+
+3.
+SIBIRTRUHIBSUYEPNRFEDHSETEENOA EGOITIETRACISUM AOWGHAABERATIRS KFNUARMEDYURNJ
+
+5.
+OCIGDERCMASHCKDENOIKNWOCINNEGONMTBAHEAUIECAYT
+
+
+
+
+
+
+
+OYOAV MRIEO OLMTL
+
+
+Key = mzel
+
+
+
+
+
+
+
+M	Z	E	L
+3	4	1	2
+I	L	O	V
+E	M	Y	M
+O	T	O	R
+O	L	A	
+
+
+
+
+
+
+
+
+
+
+
+
+WIUEH HLING NOLPI HFOOS ATOAI EKESO
+HLAEU CRHMD FYWRH EOTBW BSEME NEIIN
+WEDOV RNAIT LDLIA STKOT ROEOA TTHMA
+YHFCT CTROO IEYNS EMDET IHAOA OOSMT EB
+
+
+Key= DoomGuy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome. I'm Dr. Samuel Hayden I'm the head of this facility
+I think we can work together and RESOoOoOoOoOLVE 
+this problem in a way that benefits us both
+
+
+
+D	O	O	M	G	U	Y
+1	4	5	3	2	6	7
+W	E	L	C	O	M	E
+I	M	D	R	S	A	M
+U	E	L	H	A	Y	D
+E	N	I	M	T	H	E
+H	E	A	D	O	F	T
+H	I	S	F	A	C	I
+L	I	T	Y	I	T	H
+I	N	K	W	E	C	A
+N	W	O	R	K	T	O
+G	E	T	H	E	R	A
+N	D	R	E	S	O	O
+O	O	O	O	O	O	O
+L	V	E	T	H	I	S
+P	R	O	B	L	E	M
+I	N	A	W	A	Y	T
+H	A	T	B	E	N	E
+F	I	T	S	U	S	B
+O	T	H		
+
+
+
+
+
+
+
+
+
+
+
+IRAOI KTDOP EGEOO 
+ATOVL INHOE ENKNO 
+SWORO RCESL BTWEO 
+TMHOR OH
+
+KEY=GOWAHAHAHA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I think we can work together and RESOoOoOoOoOLVE 
+this problem
+
+G	O	W	A	H	A	H	A	H	A
+5	9	10	1	6	2	7	3	8	4
+======================================
+I	T	H	I	N	K	W	E	C	A
+N	W	O	R	K	T	O	G	E	T
+H	E	R	A	N	D	R	E	S	O
+O	O	O	O	O	O	O	O	L	V
+E	T	H	I	S	P	R	O	B	L
+E	M								
+		
+
